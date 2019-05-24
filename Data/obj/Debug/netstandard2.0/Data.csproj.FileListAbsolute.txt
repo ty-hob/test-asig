@@ -1,0 +1,9 @@
+/home/ty/programming/assignment/Data/bin/Debug/netstandard2.0/Data.deps.json
+/home/ty/programming/assignment/Data/bin/Debug/netstandard2.0/Data.dll
+/home/ty/programming/assignment/Data/bin/Debug/netstandard2.0/Data.pdb
+/home/ty/programming/assignment/Data/obj/Debug/netstandard2.0/Data.csprojAssemblyReference.cache
+/home/ty/programming/assignment/Data/obj/Debug/netstandard2.0/Data.csproj.CoreCompileInputs.cache
+/home/ty/programming/assignment/Data/obj/Debug/netstandard2.0/Data.AssemblyInfoInputs.cache
+/home/ty/programming/assignment/Data/obj/Debug/netstandard2.0/Data.AssemblyInfo.cs
+/home/ty/programming/assignment/Data/obj/Debug/netstandard2.0/Data.dll
+/home/ty/programming/assignment/Data/obj/Debug/netstandard2.0/Data.pdb
